@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MeuApp</string>
+    <string name="greeting">Hello word</string>
+    <string name="Ok" translatable="false">Ok</string>
+    <string name="tamanhoBotao" translatable="false" >240dp</string>
+</resources>
